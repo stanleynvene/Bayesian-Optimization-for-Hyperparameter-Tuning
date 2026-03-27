@@ -39,6 +39,3 @@ jupyter notebook
 - The notebook uses clear section headings and explanatory markdown.
 - The dataset is loaded from `scikit-learn`, so no inaccessible manual download step is required.
 
-## Suggested GitHub repository name
-
-`bayesian-optimization-tutorial`
